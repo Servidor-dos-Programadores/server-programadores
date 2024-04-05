@@ -142,7 +142,7 @@ export const Footer = () => {
           &copy; 2024 made by{" "}
           <a
             target="_blank"
-            href="https://discord.gg/FVDXNpS7"
+            href="https://discord.gg/servidordosprogramadores"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
             Servidor dos Programadores
